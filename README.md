@@ -27,8 +27,10 @@
 
 ### Reference for Citing
 
-Georg Ofenbeck, Tiark Rompf, Alen Stojanov, Martin Odersky and Markus Püschel 
+Georg Ofenbeck, Tiark Rompf, Alen Stojanov, Martin Odersky and Markus Püschel
+ 
 Spiral in Scala: Towards the Systematic Construction of Generators for Performance Libraries 
+
 Proc. International Conference on Generative Programming: Concepts & Experiences (GPCE), 2013
 
 
